@@ -22,26 +22,17 @@ Due to a variety of issues including but not limited to: fragmented ad tech stac
 [The conference presentation](https://www.youtube.com/watch?v=w9MRDjIETPY&list=PLi8BQK-Zsrbj3LpMTQdMFRi7ukkAlsamy&index=16&t=50s)
 
 The final dashboard:
+![retail_media_1](https://github.com/QuinnGrace/retail-media-value-drivers/assets/73368635/fa00b3a6-3d81-4d82-924c-38c8a554614b)
+![retail_media_2](https://github.com/QuinnGrace/retail-media-value-drivers/assets/73368635/60e95194-805a-4f8e-aba4-b967cf836392)
+![retail_media_3](https://github.com/QuinnGrace/retail-media-value-drivers/assets/73368635/a2633925-de04-49da-93ce-bb0d9a9e9ec3)
 
+View the conference link for a live demo of the dashboard as well as the conclusions and recommendations.
 
-Conclusions
-Spring had the most absences
-Spring had the highest workload
-5 employees (of 36) make up half of all absences
-Medical reasons were by far the most common cause of absences
-Drinkers took the most unjustified leave (70%)
-Reason 15 (medical reason) for absenteeism only happened on Mondays and Fridays
-Employees with 4 children took more leave than employees with fewer children
-Obese employees made up only a quarter of employees but a third of all medical leave
-Recommendations
-Reduce or spread out workload in Spring
-Engage with and provide support to employees with high numbers of absences
-Host events encouraging healthy lifestyles and remodel the office to incentivise healthy choices
-Discourage heavy drinking
-Provide further support to employees with 4 children, such as providing childcare
-Acknowledgements
+## Acknowledgements
 I would like to thank my team members for their contributions:
 
-Toka Ramakau (Head Designer)
-Shedrack Udeh
-Tebatso Malotane#
+Luhle Shumi (Vice Team Lead)
+Chijioke Nnabueze (Technical Lead)
+Thato Molapisi (Administrative Lead)
+Ekesi Joseph Chukunonso
+Oluwapelumi Shennuga
