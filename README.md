@@ -31,8 +31,8 @@ View the conference link for a live demo of the dashboard as well as the conclus
 ## Acknowledgements
 I would like to thank my team members for their contributions:
 
-Luhle Shumi (Vice Team Lead)
-Chijioke Nnabueze (Technical Lead)
-Thato Molapisi (Administrative Lead)
-Ekesi Joseph Chukunonso
-Oluwapelumi Shennuga
+- Luhle Shumi (Vice Team Lead)
+- Chijioke Nnabueze (Technical Lead)
+- Thato Molapisi (Administrative Lead)
+- Ekesi Joseph Chukunonso
+- Oluwapelumi Shennuga
